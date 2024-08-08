@@ -1,5 +1,5 @@
 just testing
-temple website,
+temple website for refference
 
 https://spst.in/
 https://itms.kar.nic.in/hrcehome/index_temple.php?tid=25
@@ -9,3 +9,17 @@ https://www.iskconbangalore.org/
 https://www.shridharmasthala.org/
 
 menu: 
+About
+History
+Gallery
+Contact us 
+Darshana timings
+Administrator
+
+
+temple website templates:
+
+https://htmldemo.net/stomv/tf.html
+
+https://demos.codexcoder.com/themeforest/html/peace/peace-demo/
+
